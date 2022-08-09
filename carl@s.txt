@@ -4,12 +4,8 @@
 venta de una casa
 mitad del mundo 
 conjunto
-<<<<<<< HEAD
-8 habitaciones 
-=======
 3 habitaciones 
->>>>>>> hab
-2 baños
+4 baños
 1 sala
 1 comedor 
 1 patio
