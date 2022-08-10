@@ -1,11 +1,13 @@
 
 
-.......
-venta de una casita
+
+.........
+venta de una house
 mitad del mundo 
 conjunto
 3 habitaciones 
-4 baños
+1 baños
 1 sala
 1 comedor 
-3 patio
+1 patio
+mas cosas para hacer un cherry pick
